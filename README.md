@@ -7,24 +7,6 @@
 
 ---
 
-## 🙏 Special Thanks To
-
-- 🌴 [⌯ Ꭺɴᴏɴʏᴍᴏᴜꜱ | ×͜× |](https://t.me/BeingXAnonymous)
-- 🌴 [⌯ ᴢɪsʜᴀɴ | ×͜× |](https://t.me/IM_JISSHU)
-- 🌴 [⌯ ʙʜᴀʀᴀᴛʜ | ×͜× |](https://t.me/Bharath_boy)
-- 🌴 [Harshal Purohit Edits](https://github.com/HarshalPurohitEdits)
-- 🌴 [Support Group](https://t.me/Deendayal_Support_Group)
-
----
-
-## 🛠 Need Help Deploying?
-
-Join our support group for assistance:
-
-[![Join Support Group](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/Deendayal_Support_Group)
-
----
-
 ## 🌟 Features
 - ✅ Double db support 
 - ✅ Stream Mode Toggle  
@@ -64,8 +46,6 @@ Join our support group for assistance:
 - ✅ Auto Delete Old Files  
 - ✅ …and more!
 
-📌 *To stay updated with all new features, join our [Updates Channel](https://t.me/dreamxbotz).*
-
 ---
 
 ## ⚙️ Commands
@@ -99,20 +79,6 @@ remove_premium      – Remove premium access
 premium_users       – List premium users
 restart             – Restart the bot
 ```
-
----
-
-## ⚠️ Disclaimer
-
-This repository is intended **strictly for educational purposes only**.  
-The authors are **not responsible** for any misuse or abuse of this code.  
-Use at your own discretion and **always respect platform rules and copyrights**.
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](https://github.com/MrRaazz/DreamxBotz/blob/main/LICENSE)
 
 ---
 
